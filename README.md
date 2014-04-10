@@ -17,5 +17,9 @@ Then move `.bash_profile` file to your Home
 `mv .bash_profile ~/.bash_profile`  
 
 **Don't forget to Backup your old `.bash_profile`**
+Here is how: 
+`cd ~/`  
+`cp .bash_profile .bash_profile-backup`  
+
 
 Enjoy

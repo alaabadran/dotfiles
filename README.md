@@ -16,4 +16,6 @@ Then move `.bash_profile` file to your Home
 `cd dotfiles`  
 `mv .bash_profile ~/.bash_profile`  
 
+**Don't forget to Backup your old `.bash_profile`**
+
 Enjoy

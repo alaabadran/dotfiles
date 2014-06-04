@@ -1,7 +1,7 @@
 dotfiles
 ========
 
-Do you want to have a cool terminal like this: 
+Do you want to have a cool terminal like this:  
 ![screenshot](http://alaabadran.com/images/dotfiles-preview.png)
 
 Installation

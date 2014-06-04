@@ -8,6 +8,8 @@ Installation
 ------------
 First, you need to install git Auto-completion  
 `sudo git clone git@github.com:git/git.git /usr/local/git/`  
+If you got error, then try:  
+`sudo git clone https://github.com/git/git.git /usr/local/git/`  
 
 Now clone dotfiles:  
 `cd ~/`  

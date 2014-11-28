@@ -16,8 +16,8 @@ Then move `.bash_profile` file to your Home
 `cd dotfiles`  
 `mv .bash_profile ~/.bash_profile`  
 
-**Don't forget to Backup your old `.bash_profile`**
-Here is how: 
+**Don't forget to Backup your old `.bash_profile`**  
+Here is how:  
 `cd ~/`  
 `cp .bash_profile .bash_profile-backup` 
 Then open Terminal app -> *Preferences* -> *Profiles* -> *Import* -> choose IR_Black theme 
